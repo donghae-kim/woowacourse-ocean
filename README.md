@@ -11,5 +11,7 @@
 |:------:|:---------:|:-----------:|:---:|
 |자동차 경주 게임/step1|[java-racingcar/step1](https://github.com/donghae-kim/java-racingcar/tree/step1)|[Pull Request](https://github.com/woowacourse/java-racingcar/pull/509)|제이미|
 |자동차 경주 게임/step2|[java-racingcar/step2](https://github.com/donghae-kim/java-racingcar/tree/step2)|[Pull Request](https://github.com/woowacourse/java-racingcar/pull/556)|
-|사다리 게임/step1|[java-racingcar/step1](https://github.com/donghae-kim/java-ladder/tree/step1)|[Pull Request](https://github.com/woowacourse/java-ladder/pull/72)|히이로|
-|사다리 게임/step2|[java-racingcar/step2](https://github.com/donghae-kim/java-ladder/tree/step2)|[Pull Request](https://github.com/woowacourse/java-ladder/pull/176)|
+|사다리 게임/step1|[java-ladder/step1](https://github.com/donghae-kim/java-ladder/tree/step1)|[Pull Request](https://github.com/woowacourse/java-ladder/pull/72)|히이로|
+|사다리 게임/step2|[java-ladder/step2](https://github.com/donghae-kim/java-ladder/tree/step2)|[Pull Request](https://github.com/woowacourse/java-ladder/pull/176)|
+|블랙잭 게임/step1|[java-blackjack/step1](https://github.com/donghae-kim/java-blackjack/tree/step1)|[Pull Request](https://github.com/woowacourse/java-blackjack/pull/417)|루쿠|
+|블랙잭 게임/step2|[java-blackjack/step2](https://github.com/donghae-kim/java-blackjack/tree/step2)|[Pull Request](https://github.com/woowacourse/java-blackjack/pull/501)|
