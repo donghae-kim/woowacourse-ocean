@@ -15,3 +15,5 @@
 |사다리 게임/step2|[java-ladder/step2](https://github.com/donghae-kim/java-ladder/tree/step2)|[Pull Request](https://github.com/woowacourse/java-ladder/pull/176)|
 |블랙잭 게임/step1|[java-blackjack/step1](https://github.com/donghae-kim/java-blackjack/tree/step1)|[Pull Request](https://github.com/woowacourse/java-blackjack/pull/417)|루쿠|
 |블랙잭 게임/step2|[java-blackjack/step2](https://github.com/donghae-kim/java-blackjack/tree/step2)|[Pull Request](https://github.com/woowacourse/java-blackjack/pull/501)|
+|체스 게임/step1|[java-chess/step1](https://github.com/donghae-kim/java-chess/tree/step1)|[Pull Request](https://github.com/woowacourse/java-chess/pull/481)|케로|
+|체스 게임/step2|[java-chess/step2](https://github.com/donghae-kim/java-chess/tree/step2)|[Pull Request](https://github.com/woowacourse/java-chess/pull/549)|
