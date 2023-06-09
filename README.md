@@ -17,3 +17,10 @@
 |블랙잭 게임/step2|[java-blackjack/step2](https://github.com/donghae-kim/java-blackjack/tree/step2)|[Pull Request](https://github.com/woowacourse/java-blackjack/pull/501)|
 |체스 게임/step1|[java-chess/step1](https://github.com/donghae-kim/java-chess/tree/step1)|[Pull Request](https://github.com/woowacourse/java-chess/pull/481)|케로|
 |체스 게임/step2|[java-chess/step2](https://github.com/donghae-kim/java-chess/tree/step2)|[Pull Request](https://github.com/woowacourse/java-chess/pull/549)|
+
+## Level 2️⃣
+**📆 기간 : 2023.04.11 ~ 2023.06.09**
+|Project |Repository |Pull Request |Pair |
+|:------:|:---------:|:-----------:|:---:|
+|웹 자동차 경주/step1|[jwp-racingcar/step1](https://github.com/donghae-kim/jwp-racingcar/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-racingcar/pull/52)|민트|
+|자동차 경주 게임/step2|[jwp-racingcar/step2](https://github.com/donghae-kim/jwp-racingcar/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-racingcar/pull/120)|
