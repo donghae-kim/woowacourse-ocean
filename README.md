@@ -1,4 +1,4 @@
-# 🌟 우아한테크코스 5기 
+# 🌟 우아한테크코스 5기 오션
 안녕하세요, 5기 백엔드 크루 오션입니다 🌊🌊 \
 우아한테크코스 5기를 활동하며 진행한 내용 정리 레파지토리입니다.
 <br>
@@ -37,19 +37,7 @@
 - [[Design Pattern] 상태 패턴을 사용해보자](https://eastc.tistory.com/entry/디자인-패턴-상태-패턴)
 - [[Design Pattern] 전략 패턴을 사용해보자](https://eastc.tistory.com/entry/디자인-패턴-전략-패턴)
 
-
-## Level 1️⃣
-**📆 기간 : 2023.02.07 ~ 2023.03.31**
-
-**📖 Java, Unit Test, TDD, Clean Code, OOP, DB**
-
-**✅ 학습 목표**
-- 자바 프로그래밍 언어에 대한 핵심 개념을 익혀 프로그래밍하는 경험을 한다.
-- 읽기 좋은 코드를 구현하는 것이 왜 중요한지와 코드를 개선해 읽기 좋은 코드로 변경해 보는 경험을 한다.
-- 자신이 구현한 코드에 대해 단위 테스트와 리팩토링하는 경험을 한다.
-- 데이터베이스를 활용한 콘솔 애플리케이션을 개발하는 경험을 한다.
-
-
+---
 ## Level 2️⃣
 **📆 기간 : 2023.04.11 ~ 2023.06.09**
 
@@ -68,3 +56,13 @@
 |웹  경주/step2|[jwp-racingcar/step2](https://github.com/donghae-kim/jwp-racingcar/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-racingcar/pull/120)||[웹 자동차 경주 2단계 학습로그](https://eastc.tistory.com/entry/우아한테크코스-5기-웹-자동차-경주-2단계-학습-로그-1)
 |장바구니/step1|[jwp-shopping-cart/step1](https://github.com/donghae-kim/jwp-shopping-cart/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-shopping-cart/pull/178)|[연어](https://github.com/nuyh99)|[장바구니 1단계 학습로그](https://eastc.tistory.com/entry/우아한테크코스-5기-장바구니-1단계-학습)
 |장바구니/step2|[jwp-shopping-cart/step2](https://github.com/donghae-kim/jwp-shopping-cart/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-shopping-cart/pull/285)||[장바구니 2단계 학습로그](https://eastc.tistory.com/entry/우아한테크코스-5기-장바구니-2단계-학습-로그)
+|지하철/step1|[jwp-subway-path/step1](https://github.com/donghae-kim/jwp-subway-path/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-subway-path/pull/64)|[우가](https://github.com/wugawuga), [쥬니](https://github.com/cpot5620)|[지하철 1단계 학습로그](https://eastc.tistory.com/entry/우아한테크코스-5기-지하철-1단계-학습로그)
+|지하철/step2|[jwp-subway-path/step2](https://github.com/donghae-kim/jwp-subway-path/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-subway-path/pull/117)||[지하철 2단계 학습로그](https://eastc.tistory.com/entry/우아한테크코스-5기-지하철-2단계-학습로그)
+|장바구니 협업|[jwp-subway-path](https://github.com/donghae-kim/jwp-shopping-order/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-shopping-order/pull/39)|[달리](https://github.com/waterricecake), [홍고](https://github.com/hgo641)|[장바구니 협업 학습로그]()
+
+**✍️ 학습로그**
+- [[Spring] 어떤 것을 스프링 빈으로 등록해야하는 가 ?](https://eastc.tistory.com/entry/Spring-어떤-객체를-빈으로-등록해야-할까)
+- [[Spring] 미션에서 Spring DispatcherServlet 작동원리 알아보기](https://eastc.tistory.com/entry/Spring-Dispatcher-Servlet이란-미션-에서-찾아보기)
+- [[Spring] ArgumentResolver 내부 탐색하기](https://eastc.tistory.com/entry/Spring-Argument-Resolver-내부-구경-하기)
+- [[Spring] 도메인은 id 값을 가져도 될까 ?](https://eastc.tistory.com/entry/도메인은-id-값을-가져도-될까)
+- [[Spring] Repository 사용기](https://eastc.tistory.com/entry/Repository-사용기)
