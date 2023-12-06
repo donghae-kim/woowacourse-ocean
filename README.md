@@ -66,3 +66,9 @@
 - [[Spring] ArgumentResolver 내부 탐색하기](https://eastc.tistory.com/entry/Spring-Argument-Resolver-내부-구경-하기)
 - [[Spring] 도메인은 id 값을 가져도 될까 ?](https://eastc.tistory.com/entry/도메인은-id-값을-가져도-될까)
 - [[Spring] Repository 사용기](https://eastc.tistory.com/entry/Repository-사용기)
+
+---
+## Level 3️⃣
+**📆 기간 : 2023.06.26 ~ 2023.08.18**
+
+[트렌디한 성수 지역의 카페를 손쉽게 탐색하는 서비스, ☕️ 요즘카페](https://github.com/woowacourse-teams/2023-yozm-cafe)
