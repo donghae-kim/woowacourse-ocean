@@ -87,3 +87,8 @@
 **📝 글쓰기**
 
 [레벨4 글쓰기 - 내가 꿈꾸는 프로그래머로서의 삶](https://github.com/woowacourse/woowa-writing-5/pull/435)
+
+
+---
+## 🎸 ETC
+[오션의 테코톡 - 뮤텍스와 세마포어](https://www.youtube.com/watch?v=NL9JQh5bbZ8&t=398s)
