@@ -83,6 +83,23 @@
 
 ---
 ## Level 4️⃣
+**📆 기간 : 2023.08.28 ~ 2023.10.27**
+|Project |Repository |Pull Request |Pair |
+|:------:|:---------:|:-----------:|:---:|
+|톰캣 구현하기/step1&step2|[jwp-dashboard-http/step1](https://github.com/donghae-kim/jwp-dashboard-http/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/347)|[스플릿](https://github.com/splitCoding)
+|톰캣 구현하기/step3&step4|[jwp-dashboard-http/step3](https://github.com/donghae-kim/jwp-dashboard-http/tree/step3)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/435)
+|MVC 구현하기/step1|[jwp-dashboard-mvc/step1](https://github.com/donghae-kim/jwp-dashboard-mvc/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/358)|[쥬니](https://github.com/cpot5620)
+|MVC 구현하기/step2|[jwp-dashboard-mvc/step2](https://github.com/donghae-kim/jwp-dashboard-mvc/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/475)
+|MVC 구현하기/step3|[jwp-dashboard-mvc/step3](https://github.com/donghae-kim/jwp-dashboard-mvc/tree/step3)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/545)
+|JDBC 라이브러리 구현하기/step1|[jwp-dashboard-jdbc/step1](https://github.com/donghae-kim/jwp-dashboard-jdbc/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/273)|[제리](https://github.com/hyeonjerry)
+|JDBC 라이브러리 구현하기/step2|[jwp-dashboard-jdbc/step2](https://github.com/donghae-kim/jwp-dashboard-jdbc/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/380)|
+|JDBC 라이브러리 구현하기/step3|[jwp-dashboard-jdbc/step3](https://github.com/donghae-kim/jwp-dashboard-jdbc/tree/step3)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/415)|
+|JDBC 라이브러리 구현하기/step4|[jwp-dashboard-jdbc/step4](https://github.com/donghae-kim/jwp-dashboard-jdbc/tree/step4)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/518)|
+|레거시 리팩토링/step1|[jwp-refactoring/step1](https://github.com/donghae-kim/jwp-refactoring/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/516)|[폴로](https://github.com/green-kong)
+|레거시 리팩토링/step2|[jwp-refactoring/step2](https://github.com/donghae-kim/jwp-refactoring/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/559)|
+|레거시 리팩토링/step3|[jwp-refactoring/step3](https://github.com/donghae-kim/jwp-refactoring/tree/step3)|[Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/650)|
+|레거시 리팩토링/step4|[jwp-refactoring/step4](https://github.com/donghae-kim/jwp-refactoring/tree/step4)|[Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/731)|
+
 
 **📝 글쓰기**
 
